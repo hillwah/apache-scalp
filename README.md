@@ -1,3 +1,4 @@
+#Automatically exported from code.google.com/p/apache-scalp
 Scalp! is a log analyzer for the Apache web server that aims to look for security problems. The main idea is to look through huge log files and extract the possible attacks that have been sent through HTTP/GET (By default, Apache does not log the HTTP/POST variable).
 
 #How it works
